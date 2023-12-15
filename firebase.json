@@ -1,0 +1,168 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+
+
+"redirects": [ 
+	{
+    	"source": "/",
+    	"destination": "https://sites.google.com/view/ilcoder",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/iloc",
+    	"destination": "https://infinity-iloc.koyeb.app/",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/portfolio-creator",
+    	"destination": "https://portfolio.ilcoder.epizy.com/",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/parceleye",
+    	"destination": "https://ldt-web.web.app/",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/ilucs",
+    	"destination": "https://ilucs-infinity.koyeb.app/",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/tictactoe",
+    	"destination": "https://tictactoe-il.web.app/",
+    	"type": 301
+  	} ,
+
+	{
+    	"source": "/github",
+    	"destination": "https://github.com/il-coder",
+    	"type": 301
+  	} ,
+
+	{
+    	"source": "/portfolio",
+    	"destination": "https://devpiyushg.web.app",
+    	"type": 301
+  	}  ,
+
+	{
+    	"source": "/shop",
+    	"destination": "https://il-coder.github.io/login/",
+    	"type": 301
+  	}  ,
+
+	{
+    	"source": "/chat",
+    	"destination": "https://il-coder.github.io/chat/",
+    	"type": 301
+  	} ,
+
+	{
+    	"source": "/password",
+    	"destination": "https://www.dropbox.com/s/ozq5am2iisvn6bh/Password%20Strength%20Checker%20(GUI).zip?dl=1",
+    	"type": 301
+  	} ,
+
+	{
+    	"source": "/notepad",
+    	"destination": "https://dropbox.com/s/0mxf9pwgljzgcyz/ilNotePad.zip?dl=1",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/save_the_ball",
+    	"destination": "https://ilcoder689.github.io/shop/#1",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/notes/btech",
+    	"destination": "https://mega.nz/file/U6JXTAba#mVUneJszilugzmdcigfoH7Av3U7DTSwLlcr4B0q6SZE",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/notes/btech/1stsem",
+    	"destination": "https://mega.nz/file/tuJ2QYJS#coH7p05S_JSqj5rdoAipcr4-G0VthxOv6gzDkiBeh6c",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/notes/btech/2ndsem",
+    	"destination": "https://mega.nz/file/MmxykRaS#ckwfQV3l3IA8ftyzKLfjb8E4DOXy4U33ZbnTbyGDZm0",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/notes/btech/3rdsem",
+    	"destination": "https://mega.nz/file/huZDQCQT#mCYROpRGcq9JXWCaHYBfGsG7ZA2voIorWX52xONpcXg",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/notes/btech/4thsem",
+    	"destination": "https://www.dropbox.com/s/z05kepm9vcjbpi2/4th%20Sem.zip?dl=0",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/notes/btech/5thsem",
+    	"destination": "https://mega.nz/file/UvBCDRqb#s2xslfX02825HpFCPlDOK1yk3FmBYcBfqC7ETxkuyT4",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/notes/btech/6thsem",
+    	"destination": "https://mega.nz/file/Jy5WxYqI#eiPJQ81h60qvmo46ONwxtnEGs9X9a1D3N1uTHsHDUGc",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/notes/btech/7thsem",
+    	"destination": "https://mega.nz/file/4y5xADIb#g94HZKf0_NlxQ0oLB5wn0NwaaOVMG5zHU9ypTmQBeg0",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/notes/btech/8thsem",
+    	"destination": "https://mega.nz/file/Fy4gXZSY#6Q7awUiYpsEi-cMmonD3dslUthgIo7pcW80OjuLVAYg",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/notes/btech/subjects",
+    	"destination": "https://mega.nz/file/l7ZVVCDS#uUhx6S0AZK5aDbZiWB3Z6S79GzL2QDJ0oJPwO6-PP38",
+    	"type": 301
+  	},
+
+
+	{
+    	"source": "/links",
+    	"destination": "https://sites.google.com/view/mining-logics-links",
+    	"type": 301
+  	},
+
+	{
+    	"source": "/status",
+    	"destination": "https://stats.uptimerobot.com/PoQArhvJB6",
+    	"type": 301
+  	}
+
+
+]
+
+
+  }
+}
